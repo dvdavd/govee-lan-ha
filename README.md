@@ -20,12 +20,12 @@ should work fine.
 
 ## Install
 
-### Via HACS (recommended)
+### Via Marketplace (recommended)
 
 Add this repository as a custom repository in HACS:
 
-1. Open HACS -> Integrations -> Custom repositories (three-dot menu)
-2. Enter the repository URL and select **Integration** as the category
+1. Open Settings -> Marketplace -> Add from link
+2. Enter the repository URL
 3. Install **Govee LAN** and restart Home Assistant
 
 ### Manual
