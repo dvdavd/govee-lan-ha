@@ -142,7 +142,7 @@ save_matrix_scene:
   fields:
     name:
       name: Name
-      description: Preset name. It appears in the effect list as "Matrix: <name>".
+      description: 'Preset name. It appears in the effect list as \"Matrix: <name>\".'
       required: true
       example: "My Pixel Scene"
       selector:
